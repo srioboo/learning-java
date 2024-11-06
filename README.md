@@ -1,3 +1,3 @@
-# Apredizaje de java, kotlin y frameworks relacionados
+# Java and Spring learning project
 
-Proyectos para el aprendizaje de Java, Kotlin, Spring, etc.
+Learning project for Java, Sprint an others Java related frameworks and libraries
